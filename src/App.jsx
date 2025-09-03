@@ -14,7 +14,7 @@ function App() {
   const [response, setResponse] = useState(null);
   const [loading, setLoading] = useState(false);
 
-  /*useEffect(()=>{
+  useEffect(()=>{
     const fetchVlrsJson = async () => {
         try{
             const res = await fetch('http://localhost:3002/robos', { mode: 'cors' })
@@ -35,7 +35,7 @@ function App() {
         }
     }
     fetchVlrsJson()
-  }, []) */
+  }, []) 
 
   //handleOnInputSend={handleOnInputSend} 
   return (
