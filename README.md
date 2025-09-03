@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://rohan-hari.github.io/Postman-Clone-React/">
-    Endereçador - Serviço de Mensageria
+    Endereçador - Serviço de Mensageria p/ whatsapp
   </a>
 </h1>
 <p align="center">
