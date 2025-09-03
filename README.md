@@ -5,7 +5,8 @@
 </h1>
 <p align="center">
   Programa para disparar mensagens em massa para números no Whatsapp usando a API da Meta. Necessário
- instalar os pacotes do package.json usando npm install
+ instalar os pacotes do package.json usando npm install e ser uma empresa verificada pelo Facebook/Meta
+ para adicionar os números de telefone e usar a API.
 </p>
 
 <h4 align="center">
