@@ -1,1 +1,44 @@
-# Enderecador_Mensagens_Front
+<h1 align="center">
+  <a href="https://github.com/marques-thanatos/Enderecador_Mensagens_Front">
+    Endereçador - Serviço de Mensageria para Whatsapp
+  </a>
+</h1>
+<p align="center">
+  Programa para disparar mensagens em massa para números no Whatsapp usando a API da Meta. Necessário
+ instalar os pacotes do package.json usando npm install
+</p>
+
+<h4 align="center">
+  Tech Stack and Dependencies: 
+  <a href="http://reactjs.org" target="_blank">React</a>,
+  <a href="https://axios-http.com" target="_blank">Axios</a>, 
+  <a href="https://codemirror.net/" target="_blank">CodeMirror</a> and 
+  <a href="https://tailwindcss.com" target="_blank">Tailwind CSS</a>.
+</h4>
+
+<p align="center">
+  <a href="#license">License</a>
+</p>
+
+## Features
+
+- Http Request Methods - GET, POST, PUT, PATCH, DELETE
+- Enabled to write API test cases in JSON format
+- View response to validate your request
+
+## Setup
+
+To run this application, you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Install dependencies
+$ npm install
+# Run the app
+$ npm start
+```
+
+Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+## License
+
+MIT
