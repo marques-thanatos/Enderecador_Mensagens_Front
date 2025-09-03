@@ -16,6 +16,10 @@
   <a href="https://tailwindcss.com" target="_blank">Tailwind CSS</a>.
 </h4>
 
+<div align="center">
+	<img src="tela.png" />
+</div>
+
 <p align="center">
   <a href="#license">License</a>
 </p>
